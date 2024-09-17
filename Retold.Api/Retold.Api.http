@@ -1,0 +1,6 @@
+@Retold.Api_HostAddress = http://localhost:5145
+
+GET {{Retold.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
