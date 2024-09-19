@@ -1,7 +1,96 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|c:\\users\\luis\\source\\repos\\retoldbuildsback\\retold.api\\controllers\\pantheoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|solutionrelative:controllers\\pantheoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|c:\\users\\luis\\source\\repos\\retoldbuildsback\\retold.api\\services\\pantheonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|solutionrelative:services\\pantheonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|c:\\users\\luis\\source\\repos\\retoldbuildsback\\retold.api\\dtos\\responses\\pantheon\\pantheonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|solutionrelative:dtos\\responses\\pantheon\\pantheonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|c:\\users\\luis\\source\\repos\\retoldbuildsback\\retold.api\\dtos\\requests\\pantheon\\storepantheonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|solutionrelative:dtos\\requests\\pantheon\\storepantheonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|c:\\users\\luis\\source\\repos\\retoldbuildsback\\retold.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|c:\\users\\luis\\source\\repos\\retoldbuildsback\\retold.api\\repositories\\repositoriesinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|solutionrelative:repositories\\repositoriesinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|c:\\users\\luis\\source\\repos\\retoldbuildsback\\retold.api\\builder\\conctretebuilders\\baseapiresponsebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|solutionrelative:builder\\conctretebuilders\\baseapiresponsebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|c:\\users\\luis\\source\\repos\\retoldbuildsback\\retold.api\\mappers\\buildmapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|solutionrelative:mappers\\buildmapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|c:\\users\\luis\\source\\repos\\retoldbuildsback\\retold.api\\controllers\\buildcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|solutionrelative:controllers\\buildcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|c:\\users\\luis\\source\\repos\\retoldbuildsback\\retold.api\\dtos\\requests\\build\\storebuildrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|solutionrelative:dtos\\requests\\build\\storebuildrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|c:\\users\\luis\\source\\repos\\retoldbuildsback\\retold.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|c:\\users\\luis\\source\\repos\\retoldbuildsback\\retold.api\\repositories\\entityframeworkvideorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|solutionrelative:repositories\\entityframeworkvideorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|c:\\users\\luis\\source\\repos\\retoldbuildsback\\retold.api\\repositories\\identityuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|solutionrelative:repositories\\identityuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|c:\\users\\luis\\source\\repos\\retoldbuildsback\\retold.api\\repositories\\entityframeworktagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|solutionrelative:repositories\\entityframeworktagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|c:\\users\\luis\\source\\repos\\retoldbuildsback\\retold.api\\repositories\\entityframeworksteprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|solutionrelative:repositories\\entityframeworksteprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|c:\\users\\luis\\source\\repos\\retoldbuildsback\\retold.api\\repositories\\entityframeworkstatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|solutionrelative:repositories\\entityframeworkstatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|c:\\users\\luis\\source\\repos\\retoldbuildsback\\retold.api\\repositories\\entityframeworkpantheonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|solutionrelative:repositories\\entityframeworkpantheonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|c:\\users\\luis\\source\\repos\\retoldbuildsback\\retold.api\\repositories\\entityframeworkmajorgodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|solutionrelative:repositories\\entityframeworkmajorgodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|c:\\users\\luis\\source\\repos\\retoldbuildsback\\retold.api\\repositories\\entityframeworklikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|solutionrelative:repositories\\entityframeworklikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|c:\\users\\luis\\source\\repos\\retoldbuildsback\\retold.api\\repositories\\entityframeworkbuildrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|solutionrelative:repositories\\entityframeworkbuildrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|c:\\users\\luis\\source\\repos\\retoldbuildsback\\retold.api\\repositories\\interfaces\\imajorgodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|solutionrelative:repositories\\interfaces\\imajorgodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|c:\\users\\luis\\source\\repos\\retoldbuildsback\\retold.api\\repositories\\interfaces\\ilikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8072D5-662B-4F10-A401-B46824D69C8C}|Retold.Api.csproj|solutionrelative:repositories\\interfaces\\ilikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 197,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,6 +131,280 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PantheonService.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Services\\PantheonService.cs",
+              "RelativeDocumentMoniker": "Services\\PantheonService.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Services\\PantheonService.cs",
+              "RelativeToolTip": "Services\\PantheonService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAvwBkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T05:01:34.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PantheonResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Dtos\\Responses\\Pantheon\\PantheonResponse.cs",
+              "RelativeDocumentMoniker": "Dtos\\Responses\\Pantheon\\PantheonResponse.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Dtos\\Responses\\Pantheon\\PantheonResponse.cs",
+              "RelativeToolTip": "Dtos\\Responses\\Pantheon\\PantheonResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:31:39.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StorePantheonRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Dtos\\Requests\\Pantheon\\StorePantheonRequest.cs",
+              "RelativeDocumentMoniker": "Dtos\\Requests\\Pantheon\\StorePantheonRequest.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Dtos\\Requests\\Pantheon\\StorePantheonRequest.cs",
+              "RelativeToolTip": "Dtos\\Requests\\Pantheon\\StorePantheonRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:31:12.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:30:15.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PantheonController.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Controllers\\PantheonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PantheonController.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Controllers\\PantheonController.cs",
+              "RelativeToolTip": "Controllers\\PantheonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:10:29.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseApiResponseBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Builder\\ConctreteBuilders\\BaseApiResponseBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\ConctreteBuilders\\BaseApiResponseBuilder.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Builder\\ConctreteBuilders\\BaseApiResponseBuilder.cs",
+              "RelativeToolTip": "Builder\\ConctreteBuilders\\BaseApiResponseBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:09:46.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositoriesInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Repositories\\RepositoriesInstaller.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoriesInstaller.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Repositories\\RepositoriesInstaller.cs",
+              "RelativeToolTip": "Repositories\\RepositoriesInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:02:23.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StoreBuildRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Dtos\\Requests\\Build\\StoreBuildRequest.cs",
+              "RelativeDocumentMoniker": "Dtos\\Requests\\Build\\StoreBuildRequest.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Dtos\\Requests\\Build\\StoreBuildRequest.cs",
+              "RelativeToolTip": "Dtos\\Requests\\Build\\StoreBuildRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:44:58.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BuildController.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Controllers\\BuildController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BuildController.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Controllers\\BuildController.cs",
+              "RelativeToolTip": "Controllers\\BuildController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:57:28.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EntityFrameworkVideoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Repositories\\EntityFrameworkVideoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EntityFrameworkVideoRepository.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Repositories\\EntityFrameworkVideoRepository.cs",
+              "RelativeToolTip": "Repositories\\EntityFrameworkVideoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:56:34.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IdentityUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Repositories\\IdentityUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IdentityUserRepository.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Repositories\\IdentityUserRepository.cs",
+              "RelativeToolTip": "Repositories\\IdentityUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:55:53.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BuildMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Mappers\\BuildMapperProfile.cs",
+              "RelativeDocumentMoniker": "Mappers\\BuildMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Mappers\\BuildMapperProfile.cs",
+              "RelativeToolTip": "Mappers\\BuildMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:09:21.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EntityFrameworkTagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Repositories\\EntityFrameworkTagRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EntityFrameworkTagRepository.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Repositories\\EntityFrameworkTagRepository.cs",
+              "RelativeToolTip": "Repositories\\EntityFrameworkTagRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:55:02.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EntityFrameworkStepRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Repositories\\EntityFrameworkStepRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EntityFrameworkStepRepository.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Repositories\\EntityFrameworkStepRepository.cs",
+              "RelativeToolTip": "Repositories\\EntityFrameworkStepRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:53:56.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EntityFrameworkStatusRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Repositories\\EntityFrameworkStatusRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EntityFrameworkStatusRepository.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Repositories\\EntityFrameworkStatusRepository.cs",
+              "RelativeToolTip": "Repositories\\EntityFrameworkStatusRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:51:43.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:57:27.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EntityFrameworkBuildRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Repositories\\EntityFrameworkBuildRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EntityFrameworkBuildRepository.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Repositories\\EntityFrameworkBuildRepository.cs",
+              "RelativeToolTip": "Repositories\\EntityFrameworkBuildRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:50:11.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EntityFrameworkPantheonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Repositories\\EntityFrameworkPantheonRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EntityFrameworkPantheonRepository.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Repositories\\EntityFrameworkPantheonRepository.cs",
+              "RelativeToolTip": "Repositories\\EntityFrameworkPantheonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:48:34.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IMajorGodRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Repositories\\Interfaces\\IMajorGodRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IMajorGodRepository.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Repositories\\Interfaces\\IMajorGodRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IMajorGodRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:47:57.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EntityFrameworkMajorGodRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Repositories\\EntityFrameworkMajorGodRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EntityFrameworkMajorGodRepository.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Repositories\\EntityFrameworkMajorGodRepository.cs",
+              "RelativeToolTip": "Repositories\\EntityFrameworkMajorGodRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:47:13.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ILikeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Repositories\\Interfaces\\ILikeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ILikeRepository.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Repositories\\Interfaces\\ILikeRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\ILikeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:46:37.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EntityFrameworkLikeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Repositories\\EntityFrameworkLikeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EntityFrameworkLikeRepository.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\RetoldBuildsBack\\Retold.Api\\Repositories\\EntityFrameworkLikeRepository.cs",
+              "RelativeToolTip": "Repositories\\EntityFrameworkLikeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:44:33.048Z"
             }
           ]
         }
