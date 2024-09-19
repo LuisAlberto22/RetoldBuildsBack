@@ -17,7 +17,6 @@ namespace Retold.Api.Data
 			base.OnModelCreating(builder);
 			builder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
 		}
-	    public DbSet<Retold.Api.Entities.Build> Build { get; set; } = default!;
 
 	}
 }
